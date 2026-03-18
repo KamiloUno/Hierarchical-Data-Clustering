@@ -1,0 +1,72 @@
+Microsoft Windows [Version 10.0.22621.2715]
+(c) Microsoft Corporation. Wszelkie prawa zastrzeżone.
+
+C:\Users\theka>cd "C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\Parametry main"
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\Parametry main>dir
+ Volume in drive C is OS
+ Volume Serial Number is 1212-EA15
+
+ Directory of C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\Parametry main
+
+15.11.2023  15:06    <DIR>          .
+15.11.2023  12:57    <DIR>          ..
+15.11.2023  14:00                 3 liczby.txt
+15.11.2023  15:06                93 Parametry main.cpp
+15.11.2023  12:46             6 636 Parametry main.vcxproj
+15.11.2023  12:46             1 003 Parametry main.vcxproj.filters
+15.11.2023  15:07               372 Parametry main.vcxproj.user
+15.11.2023  12:46    <DIR>          x64
+               5 File(s)          8 107 bytes
+               3 Dir(s)  347 925 696 512 bytes free
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\Parametry main>cd ..
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main>dir
+ Volume in drive C is OS
+ Volume Serial Number is 1212-EA15
+
+ Directory of C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main
+
+15.11.2023  12:57    <DIR>          .
+15.11.2023  12:46    <DIR>          ..
+15.11.2023  15:06    <DIR>          Parametry main
+15.11.2023  14:03             2 339 Parametry main.sln
+15.11.2023  12:46    <DIR>          x64
+               1 File(s)          2 339 bytes
+               4 Dir(s)  347 926 523 904 bytes free
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main>cd x64
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64>dir
+ Volume in drive C is OS
+ Volume Serial Number is 1212-EA15
+
+ Directory of C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64
+
+15.11.2023  12:46    <DIR>          .
+15.11.2023  12:57    <DIR>          ..
+15.11.2023  12:46    <DIR>          Debug
+               0 File(s)              0 bytes
+               3 Dir(s)  347 927 384 064 bytes free
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64>cd debug
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64\Debug>dir
+ Volume in drive C is OS
+ Volume Serial Number is 1212-EA15
+
+ Directory of C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64\Debug
+
+15.11.2023  12:46    <DIR>          .
+15.11.2023  12:46    <DIR>          ..
+15.11.2023  15:06            68 096 Parametry main.exe
+15.11.2023  15:06         1 912 832 Parametry main.pdb
+               2 File(s)      1 980 928 bytes
+               2 Dir(s)  347 927 388 160 bytes free
+
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64\Debug>"Parametry main.exe"
+Hello world!
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64\Debug>"Parametry main.exe" costam coss
+Hello world!
+C:\Users\theka\OneDrive\Pulpit\PPK\Parametry main\x64\Debug>
