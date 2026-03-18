@@ -2,7 +2,7 @@
 
 void help() { //Wyswietla pomoc w konsoli, informujac uzytkownika o poprawnym uzyciu programu.
     std::cout << "\nAby uzyc programu - kolejnosc podanych parametrow jest obojetna, ale ich obecnosc obowiazkowa: \n";
-    std::cout << "'ProjektPPK.exe' -i 'wejscie.txt' -o 'wyjscie.txt' -k 'liczba naturalna' \n";
+    std::cout << "'HierarchicalClustering.exe' -i 'wejscie.txt' -o 'wyjscie.txt' -k 'liczba naturalna' \n";
 }
 
 bool czyt_param(int argc, char** argv, std::string& wejscie, std::string& wyjscie, int& k) { //Funkcja sprawdzajaca poprawnosc i wczytujaca parametry wejsciowe z linii polecen

@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Funkcje.cpp" />
-    <ClCompile Include="ProjektPPK.cpp" />
+    <ClCompile Include="HierarchicalClustering.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Funkcje.hpp" />
